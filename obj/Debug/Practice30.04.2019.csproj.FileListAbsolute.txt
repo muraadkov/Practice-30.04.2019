@@ -1,0 +1,12 @@
+C:\Users\АдылкановМ.CORP\source\repos\Practice30.04.2019\Practice30.04.2019\bin\Debug\Practice30.04.2019.exe.config
+C:\Users\АдылкановМ.CORP\source\repos\Practice30.04.2019\Practice30.04.2019\bin\Debug\Practice30.04.2019.exe
+C:\Users\АдылкановМ.CORP\source\repos\Practice30.04.2019\Practice30.04.2019\bin\Debug\Practice30.04.2019.pdb
+C:\Users\АдылкановМ.CORP\source\repos\Practice30.04.2019\Practice30.04.2019\bin\Debug\Dapper.dll
+C:\Users\АдылкановМ.CORP\source\repos\Practice30.04.2019\Practice30.04.2019\bin\Debug\dbup-core.dll
+C:\Users\АдылкановМ.CORP\source\repos\Practice30.04.2019\Practice30.04.2019\bin\Debug\dbup-sqlserver.dll
+C:\Users\АдылкановМ.CORP\source\repos\Practice30.04.2019\Practice30.04.2019\bin\Debug\Dapper.xml
+C:\Users\АдылкановМ.CORP\source\repos\Practice30.04.2019\Practice30.04.2019\obj\Debug\Practice30.04.2019.csprojAssemblyReference.cache
+C:\Users\АдылкановМ.CORP\source\repos\Practice30.04.2019\Practice30.04.2019\obj\Debug\Practice30.04.2019.csproj.CoreCompileInputs.cache
+C:\Users\АдылкановМ.CORP\source\repos\Practice30.04.2019\Practice30.04.2019\obj\Debug\Practice30.04.2019.csproj.CopyComplete
+C:\Users\АдылкановМ.CORP\source\repos\Practice30.04.2019\Practice30.04.2019\obj\Debug\Practice30.04.2019.exe
+C:\Users\АдылкановМ.CORP\source\repos\Practice30.04.2019\Practice30.04.2019\obj\Debug\Practice30.04.2019.pdb
